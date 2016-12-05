@@ -1,0 +1,2 @@
+Understanding the structure containers and how to position them will give you great control over the layout and presentation of your pages. Once you understand the basics, build your first web page layout.
+
